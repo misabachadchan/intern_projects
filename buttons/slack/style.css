@@ -1,0 +1,27 @@
+
+        .signin {
+            background-color: #4a154b;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .signup {
+            background-color: #4a154b;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .google {
+            background-color: white;
+            color: #000;
+            border: 1px solid #ddd;
+            padding: 12px 24px;
+            border-radius: 4px;
+            font-weight: bold;
+        }

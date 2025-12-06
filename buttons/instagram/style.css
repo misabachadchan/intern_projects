@@ -1,0 +1,31 @@
+.follow {
+            background-color: #0095f6;
+            color: white;
+            border: none;
+            padding: 7px 16px;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+
+        .message {
+            background-color: #efefef;
+            color: #000;
+            border: none;
+            padding: 7px 16px;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+
+        .like {
+            background-color: transparent;
+            color: #262626;
+            border: none;
+            padding: 8px;
+        }
+
+        .share {
+            background-color: transparent;
+            color: #262626;
+            border: none;
+            padding: 8px;
+        }

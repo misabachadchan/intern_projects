@@ -1,0 +1,26 @@
+       .signin {
+            background-color: #1a73e8;
+            color: white;
+            border: none;
+            padding: 10px 24px;
+            border-radius: 4px;
+             margin: 0 20px;
+        }
+
+        .search {
+            background-color: #f8f9fa;
+            color: #3c4043;
+            border: 1px solid #f8f9fa;
+            padding: 10px 16px;
+            border-radius: 4px;
+             margin: 0 20px;
+        }
+
+        .lucky {
+            background-color: #f8f9fa;
+            color: #3c4043;
+            border: 1px solid #f8f9fa;
+            padding: 10px 16px;
+            border-radius: 4px;
+             margin: 0 20px;
+        }

@@ -1,0 +1,32 @@
+
+        .cart {
+            background-color: #ffa724;
+            color: #111;
+            border: 1px solid #ff9017;
+            padding: 8px 16px;
+            border-radius: 8px;
+        }
+
+        .buy {
+            background-color: #ffd814;
+            color: #111;
+            border: 1px solid #fcd200;
+            padding: 8px 16px;
+            border-radius: 8px;
+        }
+
+        .signin {
+            background-color: #f7ca00;
+            color: #111;
+            border: 1px solid #a88734;
+            padding: 8px 16px;
+            border-radius: 3px;
+        }
+
+        .prime {
+            background-color: #00a8e1;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 3px;
+        }

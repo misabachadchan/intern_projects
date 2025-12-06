@@ -1,0 +1,36 @@
+
+        .signup {
+            background-color: #e60023;
+            color: white;
+            border: none;
+            padding: 12px 16px;
+            border-radius: 24px;
+            font-weight: bold;
+        }
+
+        .login {
+            background-color: #e60023;
+            color: white;
+            border: none;
+            padding: 12px 16px;
+            border-radius: 24px;
+            font-weight: bold;
+        }
+
+        .save {
+            background-color: #e60023;
+            color: white;
+            border: none;
+            padding: 10px 16px;
+            border-radius: 24px;
+            font-weight: bold;
+        }
+
+        .follow {
+            background-color: #efefef;
+            color: #000;
+            border: none;
+            padding: 10px 16px;
+            border-radius: 24px;
+            font-weight: bold;
+        }

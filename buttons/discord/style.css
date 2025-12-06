@@ -1,0 +1,32 @@
+
+        .login {
+            background-color: #5865f2;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 3px;
+        }
+
+        .signup {
+            background-color: white;
+            color: #5865f2;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 3px;
+        }
+
+        .join {
+            background-color: #3ba55d;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 3px;
+        }
+
+        .send {
+            background-color: #5865f2;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 3px;
+        }

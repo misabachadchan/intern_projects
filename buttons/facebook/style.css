@@ -1,0 +1,35 @@
+
+        .login {
+            background-color: #1877f2;
+            color: white;
+            border: none;
+            padding: 11px 48px;
+            border-radius: 6px;
+            font-weight: bold;
+        }
+
+        .create {
+            background-color: #42b72a;
+            color: white;
+            border: none;
+            padding: 11px 24px;
+            border-radius: 6px;
+            font-weight: bold;
+        }
+        .like {
+            background-color: #e4e6eb;
+            color: #050505;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-weight: bold;
+        }
+
+        .share {
+            background-color: #e4e6eb;
+            color: #050505;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-weight: bold;
+        }

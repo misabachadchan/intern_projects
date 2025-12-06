@@ -1,0 +1,32 @@
+
+        .tweet {
+            background-color: #1d9bf0;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: bold;
+        }
+
+        .follow {
+            background-color: #0f1419;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: bold;
+        }
+
+        .retweet {
+            background-color: transparent;
+            color: #536471;
+            border: none;
+            padding: 8px;
+        }
+
+        .like {
+            background-color: transparent;
+            color: #536471;
+            border: none;
+            padding: 8px;
+        }

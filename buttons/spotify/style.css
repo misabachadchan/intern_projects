@@ -1,0 +1,36 @@
+
+        .play {
+            background-color: #1db954;
+            color: white;
+            border: none;
+            padding: 12px 32px;
+            border-radius: 500px;
+            font-weight: bold;
+        }
+
+        .signup {
+            background-color: #1db954;
+            color: white;
+            border: none;
+            padding: 14px 32px;
+            border-radius: 500px;
+            font-weight: bold;
+        }
+
+        .login {
+            background-color: black;
+            color: white;
+            border: none;
+            padding: 14px 32px;
+            border-radius: 500px;
+            font-weight: bold;
+        }
+
+        .follow {
+            background-color: transparent;
+            color: white;
+            border: 1px solid white;
+            padding: 8px 16px;
+            border-radius: 500px;
+            font-weight: bold;
+        }

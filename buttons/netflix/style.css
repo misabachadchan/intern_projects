@@ -1,0 +1,36 @@
+/* NETFLIX BUTTONS */
+        .signin {
+            background-color: #e50914;
+            color: white;
+            border: none;
+            padding: 16px 32px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .start {
+            background-color: #e50914;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .play {
+            background-color: white;
+            color: #000;
+            border: none;
+            padding: 10px 24px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .info {
+            background-color: rgba(109, 109, 110, 0.7);
+            color: white;
+            border: none;
+            padding: 10px 24px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
