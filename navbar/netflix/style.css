@@ -1,0 +1,43 @@
+/* Netflix Style Navbar */
+        .navbar-netflix {
+            background-color: #141414;
+            display: flex;
+            align-items: center;
+            padding: 15px 50px;
+            justify-content: space-between;
+        }
+        .navbar-netflix .logo {
+            color: #e50914;
+            font-size: 32px;
+            font-weight: bold;
+            letter-spacing: 2px;
+        }
+        .navbar-netflix .nav-links {
+            display: flex;
+            list-style: none;
+            gap: 20px;
+            margin-left: 40px;
+        }
+        .navbar-netflix .nav-links a {
+            text-decoration: none;
+            color: #e5e5e5;
+            font-size: 14px;
+            transition: color 0.3s;
+        }
+        .navbar-netflix .nav-links a:hover {
+            color: #b3b3b3;
+        }
+        .navbar-netflix .right-section {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+        }
+        .navbar-netflix .search-icon,
+        .navbar-netflix .notifications,
+        .navbar-netflix .profile {
+            color: white;
+            font-size: 18px;
+            cursor: pointer;
+        }
+
+        
